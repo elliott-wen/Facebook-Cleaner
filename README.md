@@ -3,6 +3,7 @@ Clean All Your Facebook Information
 
 Paste the Following Code to the Javscript Console So That to Kick Everything in Your Facebook.
 
+```
   function clean()
   {
   var buttons = document.querySelectorAll('[aria-label="Allowed on Timeline"]');
@@ -74,5 +75,5 @@ Paste the Following Code to the Javscript Console So That to Kick Everything in 
   }
 }
   
-
+```
 
